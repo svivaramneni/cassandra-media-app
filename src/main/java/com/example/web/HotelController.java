@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.UUID;
 
-/**
- * Created by I831921 on 7/18/2016.
- */
 @RestController
 @RequestMapping("/hotels")
 public class HotelController {
