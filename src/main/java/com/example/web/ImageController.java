@@ -17,9 +17,6 @@ import java.nio.ByteBuffer;
 import java.util.UUID;
 
 
-/**
- * Created by I831921 on 6/1/2016.
- */
 @RestController
 @RequestMapping("/api/image")
 public class ImageController {
